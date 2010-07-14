@@ -1,0 +1,2 @@
+content		last-viewed-chat								chrome/content/											xpcnativewrappers=yes
+overlay		chrome://instantbird/content/instantbird.xul	chrome://last-viewed-chat/content/instantbird.xul
