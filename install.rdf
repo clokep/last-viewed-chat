@@ -41,12 +41,12 @@
 	<Description about="urn:mozilla:install-manifest">
 		<!-- Extension Information //-->
 		<em:id>last-viewed-chat@patrick.cloke</em:id>
-		<em:version>0.1pre</em:version>
+		<em:version>0.1</em:version>
 		<em:type>2</em:type> <!-- Extension //-->
 
 		<!-- Front End MetaData //-->
 		<em:name>Last Viewed Chat</em:name>
-		<em:description>Adds a line in chats which shows when you last viewed.</em:description>
+		<em:description>Adds a marker in chats when you last viewed.</em:description>
 		<em:creator>Patrick Cloke</em:creator>
 		<!--<em:homepageURL></em:homepageURL>//-->
 
@@ -64,4 +64,5 @@
 				<em:maxVersion>0.2.*</em:maxVersion>
 			</Description>
 		</em:targetApplication>
+	</Description>
 </RDF>
