@@ -1,0 +1,14 @@
+--------------------------------------------------------------------------------
+ Key
+--------------------------------------------------------------------------------
+A - Added
+R - Removed
+F - Fixed
+K - Known issue
+
+0.1.1	2010/07/14	(Ib 0.2 - 0.3a1pre)
+F		Left a debug line in that was causing lines in all conversations, not
+		just chats
+
+0.1		2010/07/14	(Ib 0.2 - 0.2.*)
+A		Initial release
